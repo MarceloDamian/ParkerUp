@@ -2,7 +2,7 @@
 
 Proprietary Software License Agreement
 Version 1.0
-Effective Date: [2025-01-01]
+Effective Date: 01-01-2025
 Owner: Tekintralinked LLC
 
 1. Grant of License
