@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22181021057",
+    "project_id": "OnParkeytest1",
+    "storage_bucket": "OnParkeytest1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22181021057:android:3eb18db1751ea72b919480",
+        "android_client_info": {
+          "package_name": "com.example.erickcabrera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhLwhwC2GU1L_CT69RDwSLEsB8x4EdUz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
