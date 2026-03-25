@@ -91,28 +91,17 @@ The app will automatically launch in the iOS Simulator.
 ---
  
 ## Screenshots
- 
-> Add screenshots of your application below to give visitors a preview of the project.
- 
+  
 ### Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](images/MobileHome.png)
  
-### Parking Map View
-![Map View](screenshots/map.png)
+### Map View
+![Map View](images/Map.png)
  
-### Spot Details
-![Spot Details](screenshots/spot-details.png)
+### Car Detail
+![Spot Details](images/CarDetail.png)
  
----
- 
-> **How to add screenshots:**
-> 1. Create a folder called `screenshots` in the root of your project.
-> 2. Add your image files (`.png`, `.jpg`, etc.) to that folder.
-> 3. Update the filenames above to match your actual image file names.
-> 4. Commit the `screenshots` folder along with your README.
- 
----
- 
+
 ## Tech Stack
  
 | Technology | Purpose |
