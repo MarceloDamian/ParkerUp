@@ -90,7 +90,7 @@ The app will automatically launch in the iOS Simulator.
  
 ---
  
-## Screenshots
+## Images
   
 ### Home Screen
 ![Home Screen](images/Home.png)
