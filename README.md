@@ -93,13 +93,13 @@ The app will automatically launch in the iOS Simulator.
 ## Screenshots
   
 ### Home Screen
-![Home Screen](images/MobileHome.png)
+![Home Screen](images/Home.png)
  
 ### Map View
 ![Map View](images/Map.png)
  
 ### Car Detail
-![Spot Details](images/CarDetail.png)
+![Car Detail](images/CarDetail.jpg)
  
 
 ## Tech Stack
